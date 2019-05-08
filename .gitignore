@@ -1,0 +1,4 @@
+/target
+**/*.rs.bk
+/res/font.json
+/res/font.png
